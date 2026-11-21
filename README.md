@@ -2,6 +2,8 @@
 
 # quote-comparison-sheet
 
+[![CI](https://github.com/yassine2med/quote-comparison-sheet/actions/workflows/ci.yml/badge.svg)](https://github.com/yassine2med/quote-comparison-sheet/actions/workflows/ci.yml) ![Python](https://img.shields.io/badge/python-3.10%2B-3776ab) ![License](https://img.shields.io/badge/license-MIT-8fb08a)
+
 Three vendor quotes never arrive in the same shape. One leaves out a line, one quotes a different quantity, one is cheap but takes a month. This repo lines the quotes up item by item, flags what is missing or unfair, and ranks the complete bids with weights you choose for price, lead time and warranty.
 
 ![Screenshot](docs/screenshot.png)
